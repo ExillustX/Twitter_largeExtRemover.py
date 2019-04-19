@@ -5,7 +5,7 @@ Saving a Twitter image results in "jpg_large" file extension and this can cause 
 # Get started
 Clone this repository:
 ```
-git clone https://github.com/ExillustX/Twitter_largeExtRemover
+git clone git@github.com:ExillustX/Twitter_largeExtRemover.git
 ```
 
 Change the current working directory to this repository:
