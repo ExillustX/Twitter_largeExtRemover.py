@@ -1,6 +1,6 @@
 # Twitter_largeExtRemover
 
-Saving a Twitter image results in "jpg_large" file extension and this can cause many issues when opening/reuploading the image. This script iterate over files the in given directory to remove "jpg_large" from the file name.
+Saving a Twitter image results in "jpg_large" file extension and this can cause many issues when opening/reuploading the image. This script iterates over files the in given directory to remove "jpg_large" from the file name.
 
 # Get started
 Clone this repository:
