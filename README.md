@@ -4,18 +4,26 @@ Saving a Twitter image results in "jpg_large" file extension and this can cause 
 
 # Get started
 Clone this repository:
-``git clone https://github.com/ExillustX/Twitter_largeExtRemover``
+```
+git clone https://github.com/ExillustX/Twitter_largeExtRemover
+```
 
 Change the current working directory to this repository:
-``cd Twitter_largeExtRemover``
+```
+cd Twitter_largeExtRemover
+```
 
 Install the required packages:
-``pip install -r requirements.txt``
+```
+pip install -r requirements.txt
+```
 
 Start the script:
-``py main.py directory/path``
+```
+py main.py directory/path
+```
 
-Change ``directory/path`` with the directory path you want.
+Don't forget to change ``directory/path`` with the directory path you want.
 
 ### Note
 On Windows make sure to replace `/` with double a backslash `\\`
