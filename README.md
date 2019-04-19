@@ -23,7 +23,7 @@ Start the script:
 py main.py directory/path
 ```
 
-Don't forget to change ``directory/path`` with the directory path you want.
+Make sure to change ``directory/path`` with the directory path you want.
 
 ### Note
-On Windows make sure to replace `/` with double a backslash `\\`
+Don't forget to replace `/` with double a backslash `\\` if you are on Windows.
