@@ -8,7 +8,7 @@ files = []
 
 def main(path):
     for file in os.listdir(path):
-        if file.endswith('.jpg_large') or file.endswith('.png_large'):
+        if file.endswith('.jpg_large') or file.endswith('.png_large') file.endswith('.jpg-large') file.endswith('.png-large'):
             files.append(file)
     destructive_feedback = input('Do you really want to rename these files? Press Y to confirm... {}{}'.format('\n', files))
     if destructive_feedback == 'y':
